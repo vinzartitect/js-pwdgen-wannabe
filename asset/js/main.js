@@ -13,4 +13,4 @@ console.log(inputName);
 console.log(inputSurname);
 console.log(inputColor);
 
-document.getElementById("password").innerText = `la tua password è: ${inputName}${inputSurname}${inputColor}`;
+document.getElementById("password").innerText = `la tua password è: ${inputName}${inputSurname}${inputColor}21`;
